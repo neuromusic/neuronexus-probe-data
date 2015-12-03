@@ -1,0 +1,6 @@
+DisplayAlertCode,StatusColor,StatusID
+AlertG,LightGreen,1
+AlertC,Red,2
+AlertS,Yellow,3
+AlertO,Orange,4
+AlertStar,DarkGreen,5

@@ -1,0 +1,4 @@
+DefaultDisplaySiteFontSize,DefaultDisplaySiteSize,DefaultDisplaySiteSpacing,DefaultExtraNoteStartingXLocation,DefaultFirstChannelYSpacing,DefaultNumChannel,DefaultNumShank,DefaultNumSitePerShank,DefaultShankHeight,DefaultShankSpace,DefaultShankStartingXLocation,DefaultShankStartingYLocation,DefaultShankWidth,DefaultSiteArea,DefaultTetrodeOffsetLeft,DefaultTetrodeOffsetRight,DefaultTetrodeOffsetUp,DefaultTextBoxHeight,DefaultTextBoxPhaseWidth,DefaultTextBoxWidth,DesignType,DesignTypeID
+8.25,30,3,25,80,0,1,0,600,29,5,190,40,177.0,5,3,5,15,29,29,Linear,3
+8.25,30,3,25,80,0,1,0,600,66,5,190,40,121.0,5,3,5,15,29,29,Tetrode,4
+8.25,30,3,25,80,0,1,0,600,29,5,190,40,,5,3,5,15,29,29,Custom,5
